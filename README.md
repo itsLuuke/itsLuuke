@@ -14,4 +14,6 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-@itsLuuke-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/itsLuuke "Contact on Telegram")
 [![Email Badge](https://img.shields.io/badge/-me@luuke.ml-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@luuke.ml)](mailto:me@luuke.ml)
+[![YouTube Badge](https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
